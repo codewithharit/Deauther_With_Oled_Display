@@ -1,5 +1,6 @@
 # Deauther_With_Oled_Display
-Esp8266 Nodemcu Wifi Development Deauther With Oled Display
+
+ESP8266 Deauther Setup Display & Buttons
 
 <pre>  
  <h4> OLED Display  -> GPIO / ESP8266 </h4>
@@ -8,11 +9,12 @@ Esp8266 Nodemcu Wifi Development Deauther With Oled Display
   OLED SDA      ->  GPIO ( D5 ) / ESP8266 ( D1 )
   OLED VCC      ->  3.3 V
 </pre>
-<h5 align="center"><b>GPS Module</b></h5>
+<h4> Button  -> GPIO / ESP8266 </h4>
 
-<pre>GPS TX (D3) -> ESP8266 D3 
-GPS RX (D4) -> ESP8266 D4
-GPS GND     -> ESP8266 GND
-GPS VCC     -> ESP8266 VCC </pre>
+<pre> 
+  UP     ->  GPIO ( 14 ) / ESP8266 ( D5 )
+  Down   ->  GPIO ( 12 ) / ESP8266 ( D6 )
+  Click  ->  GPIO ( 13 ) / ESP8266 ( D7 )
+ 
 <br>
 <br>
