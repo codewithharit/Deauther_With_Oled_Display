@@ -2,7 +2,7 @@
 Esp8266 Nodemcu Wifi Development Deauther With Oled Display
 
 <pre>  
-  OLED Display  -> GPIO / ESP8266
+ <h4> OLED Display  -> GPIO / ESP8266 </h4>
   OLED SCL      ->  GPIO ( D4 ) / ESP8266 ( D2 )
   OLED GND      ->  GND
   OLED SDA      ->  GPIO ( D5 ) / ESP8266 ( D1 )
