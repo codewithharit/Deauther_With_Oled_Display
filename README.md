@@ -2,8 +2,9 @@
 
 ESP8266 Deauther Setup Display & Buttons
 
-<pre>  
  <h4> OLED Display  -> GPIO / ESP8266 </h4>
+<pre>  
+
   OLED SCL      ->  GPIO ( D4 ) / ESP8266 ( D2 )
   OLED GND      ->  GND
   OLED SDA      ->  GPIO ( D5 ) / ESP8266 ( D1 )
